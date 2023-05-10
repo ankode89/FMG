@@ -1,0 +1,14 @@
+## uncomment the canvas instance you are working on: use ctrl + / to comment/uncomment a block of code. Don`t forget to save your changes!
+
+# canvas:
+#   url: https://canvas.uva.nl
+#   accesstoken: paste-your-access-key-here
+
+
+canvas:
+  url: https://uvadlo.beta.instructure.com
+  accesstoken: paste-your-access-key-here
+
+# canvas:
+#   url: https://uvadlo.test.instructure.com
+#   accesstoken: paste-your-access-key-here
